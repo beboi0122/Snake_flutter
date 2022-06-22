@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>262142953146-j2v0puk6bk6k1p322a32e2mmtq0k0e2t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.262142953146-j2v0puk6bk6k1p322a32e2mmtq0k0e2t</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>262142953146-mc8i04j9hggsahp3rg1uf5hvfli7hm82.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyARPV-bvwZww1DUWMatM9EMiaBT82bZW8g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>262142953146</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bme.vik.flutter.hazi.fluttersnakehazi</string>
+	<key>PROJECT_ID</key>
+	<string>fluttersnake-28683</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fluttersnake-28683.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:262142953146:ios:701394681372ef46af6483</string>
+</dict>
+</plist>
